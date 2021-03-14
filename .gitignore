@@ -3,3 +3,6 @@
 ################################################################################
 
 /POTS/.vs/POTS/v16
+/POTS/POTS/obj
+/POTS/POTS/bin/Debug/net5.0
+/POTS/.vs/POTS/config
